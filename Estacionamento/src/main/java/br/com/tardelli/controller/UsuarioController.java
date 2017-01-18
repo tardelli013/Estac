@@ -17,7 +17,7 @@ import br.com.tardelli.repository.UsuarioRepository;
 
 /**
  * 
- * @author cicero.ednilson
+ * @author tardelli
  *
  *         Essa é a classe que o Spring vai gerenciar (Controller para o
  *         usuário)
