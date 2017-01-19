@@ -1,4 +1,4 @@
-package br.com.tardelli.controller;
+	package br.com.tardelli.controller;
 
 import java.util.List;
 
@@ -22,7 +22,7 @@ import br.com.tardelli.repository.UsuarioRepository;
  */
 @Controller
 @RequestMapping("/usuario")
-public class UsuarioController {
+public class BrandController {
 
 	@Autowired
 	ResultadoModel resultadoModel;

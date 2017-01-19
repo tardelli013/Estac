@@ -11,6 +11,8 @@
 		<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
 		<class>br.com.tardelli.model.UsuarioModel</class>
+		<class>br.com.tardelli.model.Brand</class>
+		<class>br.com.tardelli.model.CarModel</class>
 
 		<properties>
 			<property name="hibernate.dialect" value="org.hibernate.dialect.MySQL5InnoDBDialect" />
