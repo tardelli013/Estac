@@ -21,7 +21,7 @@ import br.com.tardelli.repository.UsuarioRepository;
  *
  */
 @Controller
-@RequestMapping("/usuario")
+@RequestMapping("/brand")
 public class BrandController {
 
 	@Autowired
